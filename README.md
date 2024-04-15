@@ -1,10 +1,14 @@
 # Hi there, I'm Kemal 👋
 
-![Banner](https://raw.githubusercontent.com/kemal-rov/kemal-rov/main/banner.png)
+![Banner](banner)
 
 ## 👨‍💻 Who I am:
 
-I'm a Test Automation Engineer / Software Developer with a passion for test automation, cloud technologies and back-end tools. Currently, I'm working on an e-commerce back-end application, as well as a full-stack Airbnb clone with Next.js 14.
+I'm a Test Automation Engineer / Software Developer with a passion for test automation, cloud technologies and back-end tools. Currently, I'm working on an e-commerce back-end application, on a full-stack Airbnb clone with Next.js 14, as well as automating tests for different open-source Github projects.
+
+## 📈 Some of my GitHub Stats:
+
+[![Kemal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemal-rov)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 What I'm up to:
 
@@ -21,8 +25,4 @@ I'm a Test Automation Engineer / Software Developer with a passion for test auto
 - Doing stuff outside of the comfort zone
 - Positive impact on the community
 
-## 📈 Some of my GitHub Stats:
-
-[![Kemal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemal-rov)](https://github.com/anuraghazra/github-readme-stats)
-
-Feel free to explore my repositories and let's connect!
+  Feel free to explore my repositories and let's connect!
