@@ -8,7 +8,7 @@ I'm a Test Automation Engineer / Software Developer with a passion for test auto
 
 ## 📈 Some of my GitHub Stats:
 
-[![Kemal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemal-rov)](https://github.com/anuraghazra/github-readme-stats)
+[![Kemal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemal-rov&show=,prs_merged,prs_merged_percentage&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 What I'm up to:
 
