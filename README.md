@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Who I am:
 
-I'm a Test Automation Engineer / Software Developer with a passion for test automation, cloud technologies and back-end tools. Currently, I'm working on an e-commerce back-end application, on a full-stack Airbnb clone with Next.js 14, as well as automating tests for different open-source Github projects.
+I'm a Test Automation Engineer / Software Developer with a passion for infra as code, automation, cloud technologies and back-end tools. Currently, I'm working on an e-commerce back-end application, on a full-stack Airbnb clone with Next.js 14, as well as automating tests for different open-source Github projects.
 
 ## 📈 Some of my GitHub Stats:
 
